@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDAppUsingADO", "CRUDAppUsingADO.csproj", "{261C2EA5-7FD6-4138-8013-274873FB2B4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261C2EA5-7FD6-4138-8013-274873FB2B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261C2EA5-7FD6-4138-8013-274873FB2B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261C2EA5-7FD6-4138-8013-274873FB2B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261C2EA5-7FD6-4138-8013-274873FB2B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE6D7386-3C10-461E-B65B-7B2D36B9A5CC}
+	EndGlobalSection
+EndGlobal
